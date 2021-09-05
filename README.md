@@ -1,0 +1,1 @@
+"A simple webpage which increases or decreases a counter when an 'add' or 'subtract' button is clicked respectively. The counter starts with a value of 0(black color) and changes in colour depending on whether it is negative(red) or positive(green)"
