@@ -2,7 +2,6 @@
   "name": "A simple 'add' or 'subtract' counter",
   "version": "1.0.0",
   "description": "\"A simple webpage which increases or decreases a counter when an 'add' or 'subtract' button is clicked respectively. The counter starts with a value of 0(black color) and changes in colour depending on whether it is negative(red) or positive(green)\"",
-  "main": "app.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist",
